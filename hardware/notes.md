@@ -1,12 +1,22 @@
 ## برتری ها
 - استفاده از خرد جمعی
+- هزینه پایین
 - آسان و سریع شدن ساخت
 
-## Successful products
+## Products and Projects
 
 ### Arduino
+> Arduino is an open-source computer hardware and software company, project and user community that designs and manufactures microcontroller-based kits for building digital devices and interactive objects that can sense and control the physical world. [Wikipedia](https://en.wikipedia.org/wiki/Arduino)
 
-### RasberryPi
+### Open Source Ecology
+> Open Source Blueprints for Civilization. Build Yourself.
+We’re developing open source industrial machines that can be made for a fraction of commercial costs, and sharing our designs online for free. The goal of Open Source Ecology is to create an open source economy – an efficient economy which increases innovation by open collaboration.
+![Global Village Construction Set](http://opensourceecology.org/wp-content/uploads/2014/02/gvcs-all-50.jpg) (cc by sa) [Official site](http://opensourceecology.org/)
+
+### Monome
+> Monome is a family of interface devices for computers made by an Upstate New York company of the same name. Brian Crabtree and his partner Kelli Cain are credited for Monome's creation. ![monome](https://upload.wikimedia.org/wikipedia/commons/3/36/Monome-family-stretta-20110321.jpg)
+[Wikipedia](https://en.wikipedia.org/wiki/Monome)
+
 
 ##Communities
 
